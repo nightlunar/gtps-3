@@ -1,2 +1,2 @@
-# gtps-3
-gtps 3 private server source code
+# GTPS3 Source Leaked by Tootle
+ This is the GTPS3 Source that Sebia is selling. Leaked by Tootle
