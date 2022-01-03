@@ -1,2 +1,2 @@
-# GTPS3 Source Leaked by Tootle
- This is the GTPS3 Source that Sebia is selling. Leaked by Tootle
+# GTPS3 Source 
+The source of GTPS3 -very high quality GTPS source/cpp
